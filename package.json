@@ -1,0 +1,23 @@
+{
+	"name": "html_portfolio_2",
+	"version": "1.0.0",
+	"description": "Portfolio using html, css, scss, jsvascript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/programmer-prashant/html_portfolio_1.git"
+	},
+	"author": "Prashant Raut",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/programmer-prashant/html_portfolio_1/issues"
+	},
+	"dependencies": {
+		"gh-pages": "^1.2.0",
+		"node-sass": "^4.9.2"
+	},
+	"homepage": "https://github.com/programmer-prashant/html_portfolio_1#readme"
+}
